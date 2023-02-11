@@ -2,6 +2,7 @@
 
 ;#resource "basic-utils.inc"
 ;#resource "a2-monitor.inc"
+;#resource "apple2.rom"
 ;#link "load-and-run-basic.s"
 ;#link "bloop-basic.s"
 
